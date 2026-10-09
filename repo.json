@@ -1,0 +1,21 @@
+{
+  "name": "CloudPlugins by HaremCaffeine",
+  "description": "One-click mega collection of CloudStream extensions",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/recloudstream/extensions/builds/plugins.json",
+    "https://raw.githubusercontent.com/self-similarity/MegaRepo/builds/plugins.json",
+    "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/refs/heads/builds/plugins.json",
+    "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/plugins.json",
+    "https://raw.githubusercontent.com/doGior/doGiorsHadEnough/refs/heads/builds/plugins.json",
+    "https://raw.githubusercontent.com/Rowdy-Avocado/Rowdycado-Extensions/builds/plugins.json",
+    "https://raw.githubusercontent.com/CakesTwix/cloudstream-extensions-uk/builds/plugins.json",
+    "https://raw.githubusercontent.com/Luna712/Luna712-CloudStream-Extensions/builds/plugins.json",
+    "https://raw.githubusercontent.com/Gian-Fr/ItalianProvider/builds/plugins.json",
+    "https://raw.githubusercontent.com/Bnyro/GermanProviders/refs/heads/master/plugins.json",
+    "https://raw.githubusercontent.com/TeKuma25/IndoStream/builds/plugins.json",
+    "https://raw.githubusercontent.com/redowan99/Redowan-CloudStream/builds/plugins.json",
+    "https://raw.githubusercontent.com/Kraptor123/cs-Karma/refs/heads/master/plugins.json",
+    "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/refs/heads/builds/plugins.json"
+  ]
+}
